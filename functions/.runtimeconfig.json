@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "innopolis-app",
+    "databaseURL": "https://innopolis-app.firebaseio.com",
+    "storageBucket": "innopolis-app.appspot.com",
+    "locationId": "europe-west"
+  }
+}
